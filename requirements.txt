@@ -1,0 +1,6 @@
+cherrypy
+requests
+networkx
+pymongo
+matplotlib
+imageio
